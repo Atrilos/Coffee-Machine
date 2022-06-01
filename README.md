@@ -1,2 +1,2 @@
-# Coffee-Machine2
+# Coffee-Machine
 hyperskill.org
